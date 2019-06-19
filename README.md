@@ -4,8 +4,8 @@ International Conference on Machine Learning (ICML), 2019.
 
 ## Running the Code
 
-- For code implementing MA-AIRL, please visit `multiagent-irl` folder.
-- For the OpenAI particle environment code, please visit `multiagent-particle-envs` folder.
+- For code implementing MA-AIRL, please visit `multi-agent-irl` folder.
+- For the OpenAI particle environment code, please visit `multi-agent-particle-envs` folder.
 
 ## Citation
 

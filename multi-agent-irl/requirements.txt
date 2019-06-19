@@ -1,0 +1,12 @@
+tensorflow >= 1.2
+numpy
+scipy
+mpi4py
+ray
+click
+gym[mujoco,atari,classic_control]
+tqdm
+joblib
+progressbar2
+zmq
+cloudpickle
